@@ -1,0 +1,275 @@
+[
+    
+    {
+        "name":"Marshall Stanmore III Bluetooth Speaker",
+        "price":49000.00,
+        "description":"Stanmore III has an even wider soundstage than its predecessor, delivering home-filling Marshall signature sound that has been re-engineered for a more immersive experience. This new generation of Stanmore has tweeters angled outwards and updated waveguides to deliver a consistently solid sound that is so wide it chases you around the room. Dynamic Loudness adjusts the tonal balance of the sound to ensure your music sounds brilliant at every volume.",
+        "ratings":5,
+        "images":[
+            {
+                "image":"/images/products/marshall.jpg"
+            },
+            {
+                "image":"/images/products/marshall1.webp"
+            }
+        ],
+        "category":"Electronics",
+        "seller":"Marshall",
+        "stock":"1",
+        "numOfReviews":5,
+        "reviews":[]
+    },
+    {
+            
+        "name": "SS-Bat",
+        "price": 100000,
+        "description": "Best Bat",
+        "ratings": 4,
+        "images": [
+            {
+                "image":"/images/products/ssbat1.jpg"
+            }
+        ],
+        "category": "Sports",
+        "seller": "SS-Bats",
+        "stock": 5,
+        "numOfReviews": 5,
+        "reviews": []
+        
+    },
+    {
+        "name":"Apple iPhone 16e",
+            "price":200000.00,
+            "description":"Affordable iPhone",
+            "ratings":1,
+            "images":[
+                {
+                    "image":"/images/products/iPhone16e.jpg"
+                }
+            ],
+            "category":"Mobile Phones",
+            "seller":"Apple",
+            "stock":"2",
+            "numOfReviews":15,
+            "reviews":[]
+    },
+    {
+        "name":"Lenovo LEGION Laptop",
+            "price":550000.00,
+            "description":"Gaming Laptop",
+            "ratings":5,
+            "images":[
+                {
+                    "image":"/images/products/legion2.webp"
+                },
+                {
+                    "image":"/images/products/legion.jpg"
+                },
+                {
+                    "image":"/images/products/legion4.webp"
+                }
+            ],
+            "category":"Desktop/Laptops",
+            "seller":"Lenovo",
+            "stock":"5",
+            "numOfReviews":5,
+            "reviews":[]
+    },
+    {
+        "name":"Apple Tv",
+        "price":50000.00,
+        "description":"Apple’s subscription based streaming service Apple TV+ offers different content including Apple Originals. The subscriptions can be availed of by users on paying a certain amount of fee which is similar to the other OTT services available in the country. Its subscription plan can be availed within the Apple TV app on iPhone, iPad, Apple TV, iPod touch and Mac with a seven-day free trial. So, how can you get an Apple TV+ subscription, what are its subscription plans available in India and many more queries.",
+        "ratings":4,
+        "images":[
+            {
+                "image":"/images/products/atv.jpg"
+            }
+        ],
+        "category":"Electronics",
+        "seller":"Apple",
+        "stock":"3",
+        "numOfReviews":1,
+        "reviews":[]
+    },
+    {
+        "name":"Bed with Storage",
+        "price":50000.00,
+        "description":"Bed frame with 4 storage boxes, brown, 160x200 cm (63x78 3/4)",
+        "ratings":4,
+        "images":[
+            {
+                "image":"/images/products/bed.avif"
+            },
+            {
+                "image":"/images/products/bed1.avif"
+            }
+        ],
+        "category":"Home",
+        "seller":"Amazon",
+        "stock":"3",
+        "numOfReviews":1,
+        "reviews":[]
+    },
+    {
+        "name":"Marvel Masterworks: The Amazing Spider-Man, Vol. 1 - Comic",
+        "price":10000.00,
+        "description":"By - Stan Lee (born Stanley Martin Lieber) was an American writer, editor, creator of comic book superheroes, and the former president and chairman of Marvel Comics.",
+        "ratings":5,
+        "images":[
+            {
+                "image":"/images/products/amazingSpider.jpg"
+            },
+            {
+                "image":"/images/products/amazingSpider1.jpg"
+            }
+        ],
+        "category":"Books",
+        "seller":"Stan-Lee",
+        "stock":"5",
+        "numOfReviews":1,
+        "reviews":[]
+    },
+    {
+        "name":"Mac Studio: Apple M2 chip",
+        "price":800000.00,
+        "description":"Mac Studio - M2",
+        "ratings":4,
+        "images":[
+            {
+                "image":"/images/products/macStudioM2.png"
+            },
+            {
+                "image":"/images/products/macStudioM2-1.png"
+            }
+        ],
+        "category":"Desktop/Laptops",
+        "seller":"Apple",
+        "stock":"5",
+        "numOfReviews":1,
+        "reviews":[]
+    },
+    {
+        "name":"Oppo F21s Pro 5G",
+        "price":24700.65,
+        "description":"Phone",
+        "ratings":4,
+        "images":[
+            {
+                "image":"/images/products/1.jpg"
+            },
+            {
+                "image":"/images/products/oppof21.jpg"
+            }
+        ],
+        "category":"Mobile Phones",
+        "seller":"Amazon",
+        "stock":"5",
+        "numOfReviews":15,
+        "reviews":[]
+    },
+    {
+        "name":"Comic: Essential Iron Man, Vol. 1",
+        "price":5000.00,
+        "description":"Best Book",
+        "ratings":5,
+        "images":[
+            {
+                "image":"/images/products/ironman.jpg"
+            }
+        ],
+        "category":"Books",
+        "seller":"Author - Stan Lee",
+        "stock":"2",
+        "numOfReviews":10,
+        "reviews":[]
+    },
+    {
+        "name":"Apple MacBook Pro",
+        "price":600000.00,
+        "description":"Apple MacBook Pro (14.2 inch, M4 Pro, 24GB, 512GB, macOS Sequoia, Space Black)",
+        "ratings":4,
+        "images":[
+            {
+                "image":"/images/products/aMacBookPro.webp"
+            },
+            {
+                "image":"/images/products/aMacBookPro1.webp"
+            }
+        ],
+        "category":"Desktop/Laptops",
+        "seller":"Apple",
+        "stock":"5",
+        "numOfReviews":1,
+        "reviews":[]
+    },
+    {
+        "name":"Apple iPhone 16",
+        "price":250000.00,
+        "description":"Latest iPhone-2024",
+        "ratings":2,
+        "images":[
+            {
+                "image":"/images/products/iPhone16.jpg"
+            }
+        ],
+        "category":"Mobile Phones",
+        "seller":"Apple",
+        "stock":"2",
+        "numOfReviews":15,
+        "reviews":[]
+    },
+    {
+        "name":"WRISTIO Smart Watch",
+        "price":2000.00,
+        "description":"WRISTIO 3 HD, Bluetooth Calling Smart Watch, 50+ Sports Modes, 15 days battery life, Split-screen, Water Resistant, Smart Health Monitoring, Password Protection, Black",
+        "ratings":4,
+        "images":[
+            {
+                "image":"/images/products/wristio.jpg"
+            }
+        ],
+        "category":"Smart Watch",
+        "seller":"Wristio",
+        "stock":"3",
+        "numOfReviews":5,
+        "reviews":[]
+    },
+    {
+        "name":"Lenovo LOQ Laptop",
+        "price":300000.00,
+        "description":"Gaming Laptop",
+        "ratings":4,
+        "images":[
+            {
+                "image":"/images/products/loq2.webp"
+            },
+            {
+                "image":"/images/products/loq1.jpg"
+            },
+            {
+                "image":"/images/products/loq.jpg"
+            }
+        ],
+        "category":"Desktop/Laptops",
+        "seller":"Lenovo",
+        "stock":"3",
+        "numOfReviews":5,
+        "reviews":[]
+    },
+    {
+        "name":"Apple Watch Series 10",
+        "price":150000.00,
+        "description":"Apple Watch Series 10 GPS 46mm Silver Aluminium with Denim Sport Band  (Denim Strap, Free Size)",
+        "ratings":4,
+        "images":[
+            {
+                "image":"/images/products/awatch10.jpg"
+            }
+        ],
+        "category":"Smart Watch",
+        "seller":"Apple",
+        "stock":"3",
+        "numOfReviews":1,
+        "reviews":[]
+    }
+]

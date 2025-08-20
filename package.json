@@ -1,0 +1,33 @@
+{
+  "name": "allinone",
+  "version": "1.0.0",
+  "description": "E commerce site using MERN stack",
+  "license": "ISC",
+  "author": "player127",
+  "type": "commonjs",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon backend/server.js",
+    "dev": "set NODE_ENV=development&& nodemon backend/server.js",
+    "prod": "set NODE_ENV=production&& nodemon backend/server.js",
+    "seeder": "node backend/utils/seeder.js"
+  },
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "cookie-parser": "^1.4.7",
+    "crypto": "^1.0.1",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "jsonwebtoken": "^9.0.2",
+    "lru-cache": "^11.0.2",
+    "mongoose": "^8.12.1",
+    "multer": "^2.0.0",
+    "nodemailer": "^6.10.0",
+    "redux-thunk": "^3.1.0",
+    "stripe": "^18.1.1",
+    "validator": "^13.12.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
