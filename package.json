@@ -8,8 +8,8 @@
   "main": "server.js",
   "scripts": {
     "start": "npm backend/server.js",
-    "dev": "set NODE_ENV=development&& nodemon backend/server.js",
-    "prod": "set NODE_ENV=production&& nodemon backend/server.js",
+    "dev": "set NODE_ENV=development&& npm backend/server.js",
+    "prod": "set NODE_ENV=production&& npm backend/server.js",
     "seeder": "node backend/utils/seeder.js"
   },
   "dependencies": {
